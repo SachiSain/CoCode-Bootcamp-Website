@@ -1,2 +1,2 @@
-# CoCode-Bootcamp-Website
+# CoCode-Bootcamp-Website.github.io
 HCI Project
